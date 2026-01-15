@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hemanth Sundaresan/Desktop/3050/SIMD Long Division/MAIN PROJECT.srcs/sources_1/new/REGOUT.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity REGOUT
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hemanth Sundaresan/Desktop/3050/SIMD Long Division/MAIN PROJECT.srcs/sources_1/new/NBitLongDivision.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NBitLongDivision
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hemanth Sundaresan/Desktop/3050/SIMD Long Division/MAIN PROJECT.srcs/sim_1/new/TopLevel_LongDivision_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TopLevel_LongDivision_TB
