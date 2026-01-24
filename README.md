@@ -4,7 +4,7 @@
 ## Overview
 This repository contains a **SIMD (Single Instruction, Multiple Data) long division hardware accelerator** implemented in **pure VHDL** and designed for FPGA deployment. The system performs **four independent unsigned integer divisions concurrently**, demonstrating hardware parallelism through replicated datapaths rather than sequential execution.
 
-The system integrates arithmetic datapaths, control logic, on-chip memory, and a seven-segment display interface into a complete, synthesizable FPGA design with simulation-based verification.\
+The system integrates arithmetic datapaths, control logic, on-chip memory, and a seven-segment display interface into a complete, synthesizable FPGA design with simulation-based verification.
 
 The same SIMD datapath was also wrapped in a custom AXI4-Lite IP for hardware/software co-design on a Zynq SoC, enabling processor-controlled operation and result retrieval via C.
 
